@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WATCH MART | Online Watch Store</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div id="loginPage">
+  <div class="login-box">
+    <div class="login-logo">⌚ WATCH MART</div>
+    <p>Online Watch Shopping Store</p>
+    <div class="login-group">
+      <label>Gmail Address</label>
+      <input id="username" type="email" placeholder="Enter any Gmail address (example@gmail.com)">
+    </div>
+    <div class="login-group">
+      <label>Password</label>
+      <input id="password" type="password" placeholder="Enter any password">
+    </div>
+    <button class="login-btn" onclick="login()">🔐 Login</button>
+    <div class="demo-text">First login creates your account in the database. Use the same Gmail and password next time.</div>
+  </div>
+</div>
+
+<div id="mainPage">
+<header>
+  <div class="logo">⌚ WATCH MART</div>
+  <div class="search">
+    <input id="searchInput" type="text" placeholder="Search watches, brands..." onkeyup="searchProducts()">
+    <button>🔍</button>
+  </div>
+  <button class="cart-btn" onclick="openCart()">🛒 Cart (<span id="cartCount">0</span>)</button>
+  <button class="cart-btn" onclick="showPlacedOrders()">📦 Placed Orders</button>
+  <button class="logout-btn" onclick="logout()">Logout</button>
+</header>
+
+<div class="categories">
+  <div class="category" onclick="filterProducts('All')">All</div>
+  <div class="category" onclick="filterProducts('Casual')">⌚ Casual</div>
+  <div class="category" onclick="filterProducts('Luxury')">💎 Luxury</div>
+  <div class="category" onclick="filterProducts('Sports')">🏃 Sports</div>
+  <div class="category" onclick="filterProducts('Smartwatch')">📱 Smartwatch</div>
+  <div class="category" onclick="filterProducts('Apple Watch')">⌚ Apple Watch</div>
+  <div class="category" onclick="filterProducts('Kids')">🧒 Kids</div>
+  <div class="category" onclick="filterProducts('Digital')">🔢 Digital</div>
+  <div class="category" onclick="filterProducts('Analog')">🕰️ Analog</div>
+  <div class="category" onclick="filterProducts('Automatic')">⚙️ Automatic</div>
+  <div class="category" onclick="filterProducts('Men')">👨 Men</div>
+  <div class="category" onclick="filterProducts('Women')">👩 Women</div>
+</div>
+
+<section class="banner">
+  <h1>Welcome to WATCH MART ⌚</h1>
+  <p>Discover stylish watches from popular brands. Shop Apple Watches, Smartwatches, Kids Watches, Digital, Analog, Sports and Luxury Watches.</p>
+</section>
+
+<div style="max-width:1200px;margin:12px auto;padding:10px 16px;border-radius:10px;background:#fff7e6;color:#664d03;font-size:13px">Product photos are loaded from model-specific image searches. Please verify the exact model number on the official brand page before purchasing.</div>
+
+<div class="container">
+  <h2 class="section-title">Popular Watches</h2>
+  <div class="products" id="products"></div>
+</div>
+
+<div class="modal" id="detailsModal">
+  <div class="modal-box details-box">
+    <span class="close" onclick="closeModal('detailsModal')">×</span>
+    <div class="details-grid">
+      <div><img id="detailsImage" class="details-image" src="" alt="Watch"></div>
+      <div class="details-content">
+        <div class="details-brand" id="detailsBrand"></div>
+        <h2 id="detailsName"></h2>
+        <div class="rating" id="detailsRating"></div>
+        <div class="details-price" id="detailsPrice"></div>
+        <p id="detailsDescription"></p>
+        <p><b>Category:</b> <span id="detailsCategory"></span></p>
+        <p><b>Color:</b> <span id="detailsColor"></span></p>
+        <p><b>Warranty:</b> <span id="detailsWarranty"></span></p>
+        <h3>Features</h3><ul id="detailsFeatures"></ul>
+        <button class="details-btn" id="detailsAdd">🛒 Add to Cart</button>
+        <button class="buy" id="detailsBuy">⚡ Buy Now</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal" id="cartModal">
+  <div class="modal-box">
+    <span class="close" onclick="closeModal('cartModal')">×</span>
+    <h2>🛒 Your Cart</h2>
+    <div id="cartItems"></div>
+    <div class="total">Total: ₹<span id="cartTotal">0</span></div>
+    <button class="place-order" onclick="checkout()">Proceed to Checkout</button>
+  </div>
+</div>
+
+<div class="modal" id="checkoutModal">
+  <div class="modal-box">
+    <span class="close" onclick="closeModal('checkoutModal')">×</span>
+    <h2>📦 Checkout</h2><br>
+
+    <div class="form-group"><label>Full Name</label><input id="customerName" type="text" placeholder="Enter your name"></div>
+    <div class="form-group"><label>Phone Number</label><input id="customerPhone" type="tel" placeholder="Enter 10-digit phone number"></div>
+    <div class="form-group"><label>Delivery Address</label><textarea id="customerAddress" placeholder="Enter complete delivery address"></textarea></div>
+    <div class="form-group"><label>Pincode</label><input id="customerPincode" type="text" placeholder="Enter 6-digit pincode"></div>
+    <div class="form-group"><label>Date of Birth</label><input id="deliveryDate" type="date" autocomplete="bday"></div>
+
+    <h3>💳 Payment Method</h3>
+    <div class="payment"><label><input type="radio" name="payment" value="UPI" onchange="showUPI()"> UPI Payment</label></div>
+    <div class="payment"><label><input type="radio" name="payment" value="COD" onchange="hideUPI()"> Cash on Delivery</label></div>
+
+    <div id="upiBox" style="display:none" class="upi-payment-box">
+      <h3>Scan to Pay with UPI</h3>
+      <img src="images/upi-qr.jpg" alt="UPI payment QR code for Sabari Sabari" class="upi-qr-image">
+      <p><strong>Payee:</strong> Sabari Sabari</p>
+      <p><strong>UPI ID:</strong> <span id="merchantUpiId">sabariraju2007s@okicici</span>
+        <button type="button" class="copy-upi-btn" onclick="copyMerchantUPI()">Copy UPI ID</button>
+      </p>
+      <p class="demo-payment">Scan this QR using any UPI app and complete payment. Order placement on this demo site does not automatically verify payment.</p>
+    </div>
+
+    <br>
+    <button class="place-order" onclick="placeOrder()">🛍️ Place Order</button>
+  </div>
+</div>
+
+<div class="modal" id="successModal">
+  <div class="modal-box">
+    <div class="success">
+      <div class="success-icon">✅</div>
+      <h2>ORDER SUCCESSFUL!</h2>
+      <p>Your watch order has been placed successfully.</p>
+      <div class="order-info">
+        <p><b>Order ID:</b> <span id="orderId"></span></p><br>
+        <p><b>Customer:</b> <span id="successName"></span></p><br>
+        <p><b>Date of Birth:</b> <span id="successDate"></span></p><br>
+        <p><b>Payment:</b> <span id="successPayment"></span></p><br>
+        <p><b>Total Amount:</b> ₹<span id="successTotal"></span></p>
+      </div>
+      <br>
+      <button class="place-order" onclick="closeModal('successModal'); rateLatestOrder()">Continue Shopping & Rate Order</button>
+    </div>
+  </div>
+</div>
+
+<div class="modal" id="placedOrdersModal">
+  <div class="modal-box">
+    <span class="close" onclick="closeModal('placedOrdersModal')">×</span>
+    <h2>📦 My Placed Orders</h2>
+    <div id="placedOrdersList"><p>Loading orders...</p></div>
+    <button class="place-order" onclick="showPlacedOrders()">Refresh Orders</button>
+  </div>
+</div>
+
+<footer>
+  <h2>⌚ WATCH MART</h2><br>
+  <p>Premium Watches & Smartwatches Store</p><br>
+  <p>© 2026 WATCH MART. All Rights Reserved.</p>
+</footer>
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,1282 @@
+[
+  {
+    "id": 1,
+    "name": "Casio Analog Watch",
+    "brand": "Casio",
+    "category": "Casual",
+    "price": 2499,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black & Silver",
+    "warranty": "2 years",
+    "description": "Classic Casio analog watch with a clean dial and comfortable everyday design.",
+    "features": [
+      "Quartz movement",
+      "Water resistant",
+      "Stainless steel case",
+      "Comfort strap"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Casio%20Casio%20Analog%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 2,
+    "name": "Titan Classic Watch",
+    "brand": "Titan",
+    "category": "Luxury",
+    "price": 6999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Brown & Gold",
+    "warranty": "2 years",
+    "description": "Elegant Titan classic watch designed for formal and premium occasions.",
+    "features": [
+      "Quartz movement",
+      "Mineral glass",
+      "Leather-style strap",
+      "Water resistant"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Titan%20Titan%20Classic%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 3,
+    "name": "Fastrack Sports Watch",
+    "brand": "Fastrack",
+    "category": "Sports",
+    "price": 3499,
+    "rating": "⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "Sporty Fastrack watch built for an active everyday lifestyle.",
+    "features": [
+      "Sport design",
+      "Durable strap",
+      "Quartz movement",
+      "Water resistant"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Fastrack%20Fastrack%20Sports%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 4,
+    "name": "Apple Smart Watch",
+    "brand": "Apple",
+    "category": "Smartwatch",
+    "price": 39999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Midnight",
+    "warranty": "1 year",
+    "description": "Premium Apple smartwatch with a modern display and smart features.",
+    "features": [
+      "Smart notifications",
+      "Fitness tracking",
+      "Touch display",
+      "Bluetooth connectivity"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Apple%20Apple%20Smart%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy Watch",
+    "brand": "Samsung",
+    "category": "Smartwatch",
+    "price": 24999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Graphite",
+    "warranty": "1 year",
+    "description": "Samsung Galaxy smartwatch combining fitness, notifications and stylish design.",
+    "features": [
+      "AMOLED display",
+      "Fitness tracking",
+      "Heart-rate monitoring",
+      "Bluetooth connectivity"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Samsung%20Samsung%20Galaxy%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 6,
+    "name": "Fossil Premium Watch",
+    "brand": "Fossil",
+    "category": "Luxury",
+    "price": 11999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "2 years",
+    "description": "Fossil premium watch with a sophisticated design for everyday wear.",
+    "features": [
+      "Quartz movement",
+      "Premium finish",
+      "Comfortable strap",
+      "Water resistant"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Fossil%20Fossil%20Premium%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 7,
+    "name": "Sonata Classic Watch",
+    "brand": "Sonata",
+    "category": "Casual",
+    "price": 1799,
+    "rating": "⭐⭐⭐⭐",
+    "color": "Blue",
+    "warranty": "1 year",
+    "description": "Sonata classic watch offering simple styling and reliable everyday use.",
+    "features": [
+      "Quartz movement",
+      "Lightweight case",
+      "Comfort strap",
+      "Everyday design"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Sonata%20Sonata%20Classic%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 8,
+    "name": "Noise Smart Watch",
+    "brand": "Noise",
+    "category": "Smartwatch",
+    "price": 2999,
+    "rating": "⭐⭐⭐⭐",
+    "color": "Green & Black",
+    "warranty": "1 year",
+    "description": "Noise smart watch with useful health and activity features.",
+    "features": [
+      "Activity tracking",
+      "Smart notifications",
+      "Touch display",
+      "Bluetooth connectivity"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Noise%20Noise%20Smart%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 9,
+    "name": "Timex Expedition Field Watch",
+    "brand": "Timex",
+    "category": "Casual",
+    "price": 4299,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Olive & Black",
+    "warranty": "1 year",
+    "description": "Timex timex expedition field watch with a olive & black finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Timex%20Timex%20Expedition%20Field%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 10,
+    "name": "Rolex Oyster Style Watch",
+    "brand": "Rolex",
+    "category": "Luxury",
+    "price": 89999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Silver & Black",
+    "warranty": "1 year",
+    "description": "Rolex rolex oyster style watch with a silver & black finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Rolex%20Rolex%20Oyster%20Style%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 11,
+    "name": "Seiko 5 Automatic Watch",
+    "brand": "Seiko",
+    "category": "Luxury",
+    "price": 18999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Blue & Silver",
+    "warranty": "1 year",
+    "description": "Seiko seiko 5 automatic watch with a blue & silver finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Seiko%20Seiko%205%20Automatic%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 12,
+    "name": "Citizen Eco-Drive Watch",
+    "brand": "Citizen",
+    "category": "Luxury",
+    "price": 22999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black & Steel",
+    "warranty": "1 year",
+    "description": "Citizen citizen eco-drive watch with a black & steel finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Citizen%20Citizen%20Eco-Drive%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 13,
+    "name": "G-Shock Digital Sports Watch",
+    "brand": "Casio",
+    "category": "Sports",
+    "price": 7999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "Casio g-shock digital sports watch with a black finish, designed for style and everyday use.",
+    "features": [
+      "Sport-inspired design",
+      "Durable strap",
+      "Water-resistant design",
+      "Comfortable fit"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Casio%20G-Shock%20Digital%20Sports%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 14,
+    "name": "Casio Vintage Digital Watch",
+    "brand": "Casio",
+    "category": "Casual",
+    "price": 3499,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Gold",
+    "warranty": "1 year",
+    "description": "Casio casio vintage digital watch with a gold finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Casio%20Casio%20Vintage%20Digital%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 15,
+    "name": "Titan Raga Women's Watch",
+    "brand": "Titan",
+    "category": "Women",
+    "price": 8499,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Rose Gold",
+    "warranty": "1 year",
+    "description": "Titan titan raga women's watch with a rose gold finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Titan%20Titan%20Raga%20Women%27s%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 16,
+    "name": "Fastrack Women's Analog Watch",
+    "brand": "Fastrack",
+    "category": "Women",
+    "price": 2499,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Pink",
+    "warranty": "1 year",
+    "description": "Fastrack fastrack women's analog watch with a pink finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Fastrack%20Fastrack%20Women%27s%20Analog%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 17,
+    "name": "Sonata Women's Slim Watch",
+    "brand": "Sonata",
+    "category": "Women",
+    "price": 1499,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Silver",
+    "warranty": "1 year",
+    "description": "Sonata sonata women's slim watch with a silver finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Sonata%20Sonata%20Women%27s%20Slim%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 18,
+    "name": "Fossil Jacqueline Women's Watch",
+    "brand": "Fossil",
+    "category": "Women",
+    "price": 10999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Rose Gold",
+    "warranty": "1 year",
+    "description": "Fossil fossil jacqueline women's watch with a rose gold finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Fossil%20Fossil%20Jacqueline%20Women%27s%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 19,
+    "name": "Apple Watch SE",
+    "brand": "Apple",
+    "category": "Smartwatch",
+    "price": 24999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Starlight",
+    "warranty": "1 year",
+    "description": "Apple apple watch se with a starlight finish, designed for style and everyday use.",
+    "features": [
+      "Smart notifications",
+      "Activity tracking",
+      "Touch display",
+      "Bluetooth connectivity"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Apple%20Apple%20Watch%20SE%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 20,
+    "name": "Samsung Galaxy Watch Classic",
+    "brand": "Samsung",
+    "category": "Smartwatch",
+    "price": 28999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "Samsung samsung galaxy watch classic with a black finish, designed for style and everyday use.",
+    "features": [
+      "Smart notifications",
+      "Activity tracking",
+      "Touch display",
+      "Bluetooth connectivity"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Samsung%20Samsung%20Galaxy%20Watch%20Classic%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 21,
+    "name": "Noise ColorFit Pro",
+    "brand": "Noise",
+    "category": "Smartwatch",
+    "price": 2499,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Blue",
+    "warranty": "1 year",
+    "description": "Noise noise colorfit pro with a blue finish, designed for style and everyday use.",
+    "features": [
+      "Smart notifications",
+      "Activity tracking",
+      "Touch display",
+      "Bluetooth connectivity"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Noise%20Noise%20ColorFit%20Pro%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 22,
+    "name": "boAt Wave Smartwatch",
+    "brand": "boAt",
+    "category": "Smartwatch",
+    "price": 1999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "boAt boat wave smartwatch with a black finish, designed for style and everyday use.",
+    "features": [
+      "Smart notifications",
+      "Activity tracking",
+      "Touch display",
+      "Bluetooth connectivity"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=boAt%20boAt%20Wave%20Smartwatch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 23,
+    "name": "Amazfit GTR Smartwatch",
+    "brand": "Amazfit",
+    "category": "Smartwatch",
+    "price": 9999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Graphite",
+    "warranty": "1 year",
+    "description": "Amazfit amazfit gtr smartwatch with a graphite finish, designed for style and everyday use.",
+    "features": [
+      "Smart notifications",
+      "Activity tracking",
+      "Touch display",
+      "Bluetooth connectivity"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Amazfit%20Amazfit%20GTR%20Smartwatch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 24,
+    "name": "Garmin Forerunner Sports Watch",
+    "brand": "Garmin",
+    "category": "Sports",
+    "price": 24999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "Garmin garmin forerunner sports watch with a black finish, designed for style and everyday use.",
+    "features": [
+      "Sport-inspired design",
+      "Durable strap",
+      "Water-resistant design",
+      "Comfortable fit"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Garmin%20Garmin%20Forerunner%20Sports%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 25,
+    "name": "Timex Ironman Sports Watch",
+    "brand": "Timex",
+    "category": "Sports",
+    "price": 5999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black & Red",
+    "warranty": "1 year",
+    "description": "Timex timex ironman sports watch with a black & red finish, designed for style and everyday use.",
+    "features": [
+      "Sport-inspired design",
+      "Durable strap",
+      "Water-resistant design",
+      "Comfortable fit"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Timex%20Timex%20Ironman%20Sports%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 26,
+    "name": "Puma Active Digital Watch",
+    "brand": "Puma",
+    "category": "Sports",
+    "price": 4999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "Puma puma active digital watch with a black finish, designed for style and everyday use.",
+    "features": [
+      "Sport-inspired design",
+      "Durable strap",
+      "Water-resistant design",
+      "Comfortable fit"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Puma%20Puma%20Active%20Digital%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 27,
+    "name": "Titan Edge Ultra Slim",
+    "brand": "Titan",
+    "category": "Luxury",
+    "price": 13999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Silver",
+    "warranty": "1 year",
+    "description": "Titan titan edge ultra slim with a silver finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Titan%20Titan%20Edge%20Ultra%20Slim%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 28,
+    "name": "Fossil Grant Chronograph",
+    "brand": "Fossil",
+    "category": "Luxury",
+    "price": 14999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Brown & Black",
+    "warranty": "1 year",
+    "description": "Fossil fossil grant chronograph with a brown & black finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Fossil%20Fossil%20Grant%20Chronograph%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 29,
+    "name": "Sonata Poze Casual Watch",
+    "brand": "Sonata",
+    "category": "Casual",
+    "price": 1999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Blue",
+    "warranty": "1 year",
+    "description": "Sonata sonata poze casual watch with a blue finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Sonata%20Sonata%20Poze%20Casual%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 30,
+    "name": "Fastrack Reflex Active",
+    "brand": "Fastrack",
+    "category": "Smartwatch",
+    "price": 3499,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "Fastrack fastrack reflex active with a black finish, designed for style and everyday use.",
+    "features": [
+      "Smart notifications",
+      "Activity tracking",
+      "Touch display",
+      "Bluetooth connectivity"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Fastrack%20Fastrack%20Reflex%20Active%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 31,
+    "name": "Casio Edifice Chronograph",
+    "brand": "Casio",
+    "category": "Luxury",
+    "price": 11999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black & Silver",
+    "warranty": "1 year",
+    "description": "Casio casio edifice chronograph with a black & silver finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Casio%20Casio%20Edifice%20Chronograph%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 32,
+    "name": "Timex Classic Leather Watch",
+    "brand": "Timex",
+    "category": "Casual",
+    "price": 3299,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Brown",
+    "warranty": "1 year",
+    "description": "Timex timex classic leather watch with a brown finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Timex%20Timex%20Classic%20Leather%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 33,
+    "name": "Michael Kors Women's Watch",
+    "brand": "Michael Kors",
+    "category": "Women",
+    "price": 17999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Gold",
+    "warranty": "1 year",
+    "description": "Michael Kors michael kors women's watch with a gold finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Michael%20Kors%20Michael%20Kors%20Women%27s%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 34,
+    "name": "Titan Workwear Men's Watch",
+    "brand": "Titan",
+    "category": "Men",
+    "price": 4999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Blue & Silver",
+    "warranty": "1 year",
+    "description": "Titan titan workwear men's watch with a blue & silver finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Titan%20Titan%20Workwear%20Men%27s%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 35,
+    "name": "Fastrack Men's Streetwear Watch",
+    "brand": "Fastrack",
+    "category": "Men",
+    "price": 2999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "Fastrack fastrack men's streetwear watch with a black finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Fastrack%20Fastrack%20Men%27s%20Streetwear%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 36,
+    "name": "Casio Youth Digital Watch",
+    "brand": "Casio",
+    "category": "Men",
+    "price": 2799,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "Casio casio youth digital watch with a black finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Casio%20Casio%20Youth%20Digital%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 37,
+    "name": "Diesel Mega Chief Watch",
+    "brand": "Diesel",
+    "category": "Luxury",
+    "price": 19999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "Diesel diesel mega chief watch with a black finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Diesel%20Diesel%20Mega%20Chief%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 38,
+    "name": "Orient Automatic Dress Watch",
+    "brand": "Orient",
+    "category": "Luxury",
+    "price": 16999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Blue",
+    "warranty": "1 year",
+    "description": "Orient orient automatic dress watch with a blue finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Orient%20Orient%20Automatic%20Dress%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 39,
+    "name": "Realme Watch 3",
+    "brand": "Realme",
+    "category": "Smartwatch",
+    "price": 2999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "Realme realme watch 3 with a black finish, designed for style and everyday use.",
+    "features": [
+      "Smart notifications",
+      "Activity tracking",
+      "Touch display",
+      "Bluetooth connectivity"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Realme%20Realme%20Watch%203%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 40,
+    "name": "Fire-Boltt Phoenix Smartwatch",
+    "brand": "Fire-Boltt",
+    "category": "Smartwatch",
+    "price": 1799,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "Fire-Boltt fire-boltt phoenix smartwatch with a black finish, designed for style and everyday use.",
+    "features": [
+      "Smart notifications",
+      "Activity tracking",
+      "Touch display",
+      "Bluetooth connectivity"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Fire-Boltt%20Fire-Boltt%20Phoenix%20Smartwatch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 41,
+    "name": "Titan Karishma Men's Watch",
+    "brand": "Titan",
+    "category": "Men",
+    "price": 2799,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Silver",
+    "warranty": "1 year",
+    "description": "Titan titan karishma men's watch with a silver finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Titan%20Titan%20Karishma%20Men%27s%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 42,
+    "name": "Sonata Super Fibre Watch",
+    "brand": "Sonata",
+    "category": "Men",
+    "price": 1299,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year",
+    "description": "Sonata sonata super fibre watch with a black finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Sonata%20Sonata%20Super%20Fibre%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 43,
+    "name": "Fastrack Minimalist Women's Watch",
+    "brand": "Fastrack",
+    "category": "Women",
+    "price": 2299,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "White",
+    "warranty": "1 year",
+    "description": "Fastrack fastrack minimalist women's watch with a white finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Fastrack%20Fastrack%20Minimalist%20Women%27s%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 44,
+    "name": "Casio Enticer Men's Watch",
+    "brand": "Casio",
+    "category": "Men",
+    "price": 4599,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Blue",
+    "warranty": "1 year",
+    "description": "Casio casio enticer men's watch with a blue finish, designed for style and everyday use.",
+    "features": [
+      "Stylish dial design",
+      "Comfortable strap",
+      "Reliable timekeeping",
+      "Everyday wear"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Casio%20Casio%20Enticer%20Men%27s%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 45,
+    "name": "Apple Watch Series 10",
+    "brand": "Apple",
+    "category": "Apple Watch",
+    "price": 42999,
+    "rating": "⭐⭐⭐⭐",
+    "color": "Jet Black",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Apple Watch with health, workout, and notification features.",
+    "features": [
+      "Always-on Retina display",
+      "ECG and heart-rate features",
+      "Workout tracking",
+      "Water resistant"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Apple%20Apple%20Watch%20Series%2010%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 46,
+    "name": "Apple Watch Ultra 2",
+    "brand": "Apple",
+    "category": "Apple Watch",
+    "price": 89900,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Natural Titanium",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Rugged Apple Watch designed for outdoor and endurance activities.",
+    "features": [
+      "Titanium case",
+      "Precision GPS",
+      "Action button",
+      "Dive and outdoor features"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Apple%20Apple%20Watch%20Ultra%202%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 47,
+    "name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "category": "Apple Watch",
+    "price": 32999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Midnight",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Apple Watch Series model with smart notifications and fitness tracking.",
+    "features": [
+      "Retina display",
+      "Activity rings",
+      "Heart-rate tracking",
+      "iPhone integration"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Apple%20Apple%20Watch%20Series%209%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 48,
+    "name": "Samsung Galaxy Watch7",
+    "brand": "Samsung",
+    "category": "Smartwatch",
+    "price": 22999,
+    "rating": "⭐⭐⭐⭐",
+    "color": "Green",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Samsung Wear OS smartwatch for fitness and daily connectivity.",
+    "features": [
+      "AMOLED display",
+      "Sleep coaching",
+      "Heart-rate tracking",
+      "GPS"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Samsung%20Samsung%20Galaxy%20Watch7%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 49,
+    "name": "Samsung Galaxy Watch Ultra",
+    "brand": "Samsung",
+    "category": "Smartwatch",
+    "price": 59999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Titanium Gray",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Rugged Samsung smartwatch for sports and outdoor use.",
+    "features": [
+      "Durable titanium design",
+      "Multi-sport tracking",
+      "GPS",
+      "Health monitoring"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Samsung%20Samsung%20Galaxy%20Watch%20Ultra%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 50,
+    "name": "Google Pixel Watch 3",
+    "brand": "Google",
+    "category": "Smartwatch",
+    "price": 39999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Matte Black",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Google smartwatch with fitness insights and Google apps.",
+    "features": [
+      "Fitness tracking",
+      "Google Maps",
+      "Notifications",
+      "Heart-rate monitoring"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Google%20Google%20Pixel%20Watch%203%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 51,
+    "name": "Garmin Venu 3",
+    "brand": "Garmin",
+    "category": "Sports",
+    "price": 41990,
+    "rating": "⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Fitness-focused GPS smartwatch for workouts and recovery tracking.",
+    "features": [
+      "GPS",
+      "Workout tracking",
+      "Sleep insights",
+      "Long battery life"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Garmin%20Garmin%20Venu%203%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 52,
+    "name": "Amazfit Balance",
+    "brand": "Amazfit",
+    "category": "Smartwatch",
+    "price": 24999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Midnight Black",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Amazfit smartwatch with wellness tracking and everyday smart features.",
+    "features": [
+      "AMOLED display",
+      "GPS",
+      "Sleep tracking",
+      "Bluetooth calling"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Amazfit%20Amazfit%20Balance%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 53,
+    "name": "Noise ColorFit Icon 3",
+    "brand": "Noise",
+    "category": "Smartwatch",
+    "price": 1799,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Rose Pink",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Affordable touchscreen smartwatch for everyday notifications and activity.",
+    "features": [
+      "Touchscreen",
+      "Activity tracking",
+      "Bluetooth calling",
+      "Multiple watch faces"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Noise%20Noise%20ColorFit%20Icon%203%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 54,
+    "name": "boAt Lunar Discovery",
+    "brand": "boAt",
+    "category": "Smartwatch",
+    "price": 1499,
+    "rating": "⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Budget smartwatch with a large display and daily fitness features.",
+    "features": [
+      "Large display",
+      "Bluetooth calling",
+      "Activity tracking",
+      "Custom watch faces"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=boAt%20boAt%20Lunar%20Discovery%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 55,
+    "name": "Fire-Boltt Phoenix Ultra",
+    "brand": "Fire-Boltt",
+    "category": "Smartwatch",
+    "price": 1999,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Silver Black",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Entry-level smartwatch with calling and activity features.",
+    "features": [
+      "Bluetooth calling",
+      "Heart-rate tracking",
+      "Sports modes",
+      "Touch display"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Fire-Boltt%20Fire-Boltt%20Phoenix%20Ultra%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 56,
+    "name": "Kids GPS Calling Watch",
+    "brand": "KidsTime",
+    "category": "Kids",
+    "price": 2499,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Blue",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Children’s smartwatch concept with calling and location features; check carrier and GPS support before purchase.",
+    "features": [
+      "GPS location feature",
+      "SOS button",
+      "Calling support",
+      "Comfortable child-size strap"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=KidsTime%20Kids%20GPS%20Calling%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 57,
+    "name": "Kids Cartoon Digital Watch",
+    "brand": "Sonata",
+    "category": "Kids",
+    "price": 699,
+    "rating": "⭐⭐⭐⭐",
+    "color": "Blue & Yellow",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Colourful digital watch sized for children and everyday timekeeping.",
+    "features": [
+      "Digital time display",
+      "Lightweight strap",
+      "Alarm",
+      "Easy-to-read digits"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Sonata%20Kids%20Cartoon%20Digital%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 58,
+    "name": "Kids Unicorn Analog Watch",
+    "brand": "Zoop",
+    "category": "Kids",
+    "price": 599,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Pink & Purple",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Playful children’s analog watch with a colourful dial and easy-to-read hands.",
+    "features": [
+      "Colourful dial",
+      "Lightweight case",
+      "Comfort strap",
+      "Everyday timekeeping"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Zoop%20Kids%20Unicorn%20Analog%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 59,
+    "name": "Casio F-91W Digital Watch",
+    "brand": "Casio",
+    "category": "Digital",
+    "price": 1695,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Classic lightweight digital watch with practical everyday functions.",
+    "features": [
+      "Digital display",
+      "Daily alarm",
+      "Stopwatch",
+      "LED light"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Casio%20Casio%20F-91W%20Digital%20Watch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 60,
+    "name": "Casio G-Shock GA-2100",
+    "brand": "Casio",
+    "category": "Sports",
+    "price": 9995,
+    "rating": "⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Popular octagonal G-Shock design made for a tough everyday lifestyle.",
+    "features": [
+      "Shock resistant",
+      "World time",
+      "Stopwatch",
+      "Water resistance"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Casio%20Casio%20G-Shock%20GA-2100%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 61,
+    "name": "Seiko 5 Sports Automatic",
+    "brand": "Seiko",
+    "category": "Automatic",
+    "price": 27900,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Blue & Steel",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Automatic mechanical watch with sporty styling.",
+    "features": [
+      "Automatic movement",
+      "Day-date display",
+      "Stainless steel bracelet",
+      "Water resistance"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Seiko%20Seiko%205%20Sports%20Automatic%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 62,
+    "name": "Citizen Eco-Drive Chandler",
+    "brand": "Citizen",
+    "category": "Analog",
+    "price": 18900,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black & Silver",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Light-powered analog watch with a field-watch look.",
+    "features": [
+      "Eco-Drive light-powered movement",
+      "Luminous hands",
+      "Date display",
+      "Stainless steel case"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Citizen%20Citizen%20Eco-Drive%20Chandler%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 63,
+    "name": "Timex Weekender",
+    "brand": "Timex",
+    "category": "Casual",
+    "price": 5995,
+    "rating": "⭐⭐⭐⭐",
+    "color": "Cream & Brown",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Simple everyday analog watch with a relaxed field-inspired style.",
+    "features": [
+      "Easy-to-read dial",
+      "Interchangeable strap style",
+      "Indiglo-style night light varies by model",
+      "Quartz movement"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Timex%20Timex%20Weekender%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  },
+  {
+    "id": 64,
+    "name": "Fossil Gen 6 Smartwatch",
+    "brand": "Fossil",
+    "category": "Smartwatch",
+    "price": 19995,
+    "rating": "⭐⭐⭐⭐⭐",
+    "color": "Black",
+    "warranty": "1 year (verify seller warranty)",
+    "description": "Wear OS smartwatch model; availability and software support may vary.",
+    "features": [
+      "Touchscreen",
+      "Notifications",
+      "Activity tracking",
+      "Bluetooth"
+    ],
+    "image": "https://tse1.mm.bing.net/th?q=Fossil%20Fossil%20Gen%206%20Smartwatch%20official%20product%20photo%20watch&w=800&h=800&rs=1&p=0",
+    "modelExact": true,
+    "imageNote": "Model-specific image search; verify photo against official model before purchase."
+  }
+]

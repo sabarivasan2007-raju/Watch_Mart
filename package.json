@@ -1,0 +1,9 @@
+{
+  "name": "watch-mart-backend",
+  "version": "1.0.0",
+  "description": "WATCH MART store with Express API and SQLite database",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "bcryptjs": "^2.4.3", "better-sqlite3": "^11.10.0", "express": "^4.21.2" }
+}
